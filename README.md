@@ -1,11 +1,10 @@
 # Cat & Ring
 *Translated from Italian. The project was conducted in Italian.*
 
-## General Information
 The project was developed following the principles of the UP (Unified Process) methodology, which includes:
 - **Requirements Analysis:** Using Use Cases, System Sequence Diagrams (SSD), and contracts to identify and define the system requirements thoroughly.
 - **Design:** Domain model and UML static modeling with Design Class Diagrams (DCD) and dynamic Design Sequence Diagrams. These tools allowed to define the system architecture and workflows clearly and in detail.
-- **Implementation**
+- **Implementation:** Simple implementation is not the project's goal
 
 ## Project Description
 Cat & Ring is an application for managing a catering company, providing tools for organizing events and managing the kitchen. The application allows organizers to detail events, manage staff, and supervise ongoing activities. Chefs can create recipes, define menus for events, and manage the recipe book. Cooks prepare dishes following the chefs' instructions.
