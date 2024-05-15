@@ -20,6 +20,6 @@ Cat & Ring is an application for managing a catering company, providing tools fo
 ### Examples of Events
 Cat & Ring handles single events, complex events in a single day, and events that span multiple days. It can also manage recurring events, with menu variations from day to day or year to year.
 
-For more information, please refer to the complete project documentation.
+For more information, please refer to project_assignment.
 
 
