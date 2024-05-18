@@ -4,7 +4,12 @@ Descrizione del progetto in italiano.
 Il progetto è stato sviluppato seguendo rigorosamente i principi della metodologia UP (Unified Process), che include:
 - **Analisi dei requisiti** utilizzando Use Case, System Sequence Diagram (SSD), insieme a i contratti per identificare e definire in modo esaustivo i requisiti del sistema.
 - **Progettazione**: modello di dominio e modellazione UML statica con Design Class Diagram (DCD) e dinamica Design Sequence Diagram. Questi strumenti hanno consentito di definire l'architettura del sistema e i flussi di lavoro in modo chiaro e dettagliato.
-- **Implementazione:** inmpostata in modo semplice, non è l'obiettivo del progetto
+  <div style="display: flex;">
+    <img src="https://github.com/dadoluca/UnifiedProcess_CatRing/assets/115636267/118b3510-b9ee-4ec8-af8b-6fde8ad59bba" width="473">
+    <img src="https://github.com/dadoluca/UnifiedProcess_CatRing/assets/115636267/6fcdeb21-e1da-4f6c-87ad-f85ce21264a8" width="525">
+</div>
+
+- **Implementazione:** impostata in modo semplice, non è l'obiettivo del progetto
 
 ## Descrizione Cat & Ring
 Cat & Ring è un'applicazione per la gestione di una società di catering, fornendo strumenti per organizzare eventi e gestire la cucina. L'applicazione permette agli organizzatori di dettagliare gli eventi, gestire il personale, e supervisionare le attività in corso. Gli chef possono creare ricette, definire menù per gli eventi e gestire il ricettario. I cuochi preparano i piatti seguendo le indicazioni degli chef.
